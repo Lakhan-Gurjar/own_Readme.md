@@ -92,7 +92,7 @@
   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/html5-original-wordmark.svg" alt="html5" height="40"/></code> 
 <!--   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/css3-original-wordmark.svg" alt="css3" height="40"/></code>  -->
   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/git-scm-icon.svg" alt="git" width="40" height="40"/></code> 
-  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/github.svg" alt="github" width="40" height="40"/></code> 
+  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/github-mark-white.svg" alt="github" width="40" height="40"/></code> 
 <!--  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></code>  -->
 <!--   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code> -->
   
@@ -181,7 +181,7 @@
   <code><a href="https://www.linkedin.com/in/lakhan-gurjar-a693b8286"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/linked(color).png" alt="linkedin" width="40px" /></a></code>  
 <!--   <code><a href="https://t.me/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/telegram(color).png" width="40px" /></a></code> -->
   <code><a href="https://wa.me/9636882833" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/whatsapp(color).png" alt="whatsapp"width="40px" /></a></code>
-  <code><a href="https://github.com/Lakhan-Gurjar" target="blank"><img align="center" src="https://imgs.search.brave.com/qXDVSXD8Nnautca2OOwdPjjDb6_GOo4Lyy2bm-QexJc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/LzkxL09jdGljb25z/LW1hcmstZ2l0aHVi/LnN2Zw.svg" 
+  <code><a href="https://github.com/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/github-mark-white.svg" 
  alt="github" width="40px"/></a></code> 
   </p>
 
