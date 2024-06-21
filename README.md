@@ -85,15 +85,16 @@
 ###  My Tech Toolbox 🧰
 
 <p align="left">
-<!--   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/python-original.svg" alt="python" width="40" height="40"/></code>  -->
-  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/c-original.svg" alt="C" width="40" height="40"/></code>
-  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/cplusplus-original.svg" alt="C++" width="40" height="40"/></code> 
-  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/java-original.svg" alt="Java" width="40" height="40"/></code> 
-  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/html5-original-wordmark.svg" alt="html5" height="40"/></code> 
-<!--   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/css3-original-wordmark.svg" alt="css3" height="40"/></code>  -->
-  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/git-scm-icon.svg" alt="git" width="40" height="40"/></code> 
-  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/github-mark-white.svg" alt="github" width="40" height="40"/></code> 
-<!--   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code> -->
+<!--   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/python-original.svg" alt="python" width="40" height="40"/></code>  -->
+  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/c-original.svg" alt="C" width="40" height="40"/></code>
+  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/cplusplus-original.svg" alt="C++" width="40" height="40"/></code> 
+  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/java-original.svg" alt="Java" width="40" height="40"/></code> 
+  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/html5-original-wordmark.svg" alt="html5" height="40"/></code> 
+<!--   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/css3-original-wordmark.svg" alt="css3" height="40"/></code>  -->
+  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/git-scm-icon.svg" alt="git" width="40" height="40"/></code> 
+  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/github.svg" alt="github" width="40" height="40"/></code> 
+<!--  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></code>  -->
+<!--   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code> -->
   
   </p>
 
@@ -107,40 +108,7 @@
     "https://github-profile-trophy.vercel.app/?username=Lakhan-Gurjar&theme=juicyfresh">
   </a>
 </p> 
-
 <br>
-
-<!-- ###  Most used languages ❤️
-
-<p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhan-Gurjar&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lakhan-Gurjar&theme=dracula" alt=""><br>
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lakhan-Gurjar&theme=dracula">
-</a>
-</p>
-
-<p align="center">
- <!-- <img width="1000" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/github-snake.svg" alt="snake"/> -->
-</p>
-
-<br>
-
-<!-- ###  GitHub Stats:
-
-<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lakhan-Gurjar&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%F0%9F%99%8F%20Programmers!%20&layout=compact" /><br><br>
- <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lakhan-Gurjar&theme=radical&hide_border=true" alt="GitHub Streak""/>
-</a>
-
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Lakhan-Gurjar&theme=juicyfresh" />
-</p>
-
-
-<!--[Lakhan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Lakhan-Gurjar&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)https://github-readme-streak-stats.herokuapp.com?user=Lakhan-Gurjar&theme=radical&hide_border=true" alt="GitHub Streak-->
-
-<br/>
-
 
 
 <details open align="center">
@@ -210,16 +178,14 @@
  <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/Handshake.gif" height="30px"></h4>
 
 <p align="center">
-<!--   <code><a href="https://www.youtube.com/channel/UCKiIyY9kVPld4Q2T9OCgS9w" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/youtube(color).png" alt="YouTube"  width="40px" /></a></code> -->
-  <code><a href="https://www.linkedin.com/in/lakhan-gurjar-a693b8286"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/linked(color).png" alt="Lakhan's linkedin" width="40px" /></a></code>  
-<!--   <code><a href="https://www.instagram.com/darshan_in_the_frame/" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/insta(color).png" alt="Lakhan's Instagram" width="40px" /></a></code> -->
-<!--   <code><a href="https://www.facebook.com/darshan.saini.52035/" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/facebook(color).png" alt="Lakhan's Facebook" width="40px" /></a></code> -->
-<!--   <code><a href="https://t.me/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gujar/blob/master/telegram(color).png" width="40px" /></a></code> -->
-  <code><a href="https://wa.me/9636882833" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/whatsapp(color).png" width="40px" /></a></code>
-  <code><a href="https://github.com/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/github-mark-white.svg" width="40px"/></a></code> 
+  <code><a href="https://www.linkedin.com/in/lakhan-gurjar-a693b8286"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/linked(color).png" alt="linkedin" width="40px" /></a></code>  
+<!--   <code><a href="https://t.me/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/telegram(color).png" width="40px" /></a></code> -->
+  <code><a href="https://wa.me/9636882833" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/whatsapp(color).png" alt="whatsapp"width="40px" /></a></code>
+  <code><a href="https://github.com/Lakhan-Gurjar" target="blank"><img align="center" src="https://imgs.search.brave.com/qXDVSXD8Nnautca2OOwdPjjDb6_GOo4Lyy2bm-QexJc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/LzkxL09jdGljb25z/LW1hcmstZ2l0aHVi/LnN2Zw.svg" 
+ alt="github" width="40px"/></a></code> 
   </p>
 
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/marquee.svg"/> 
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/marquee.svg"/> 
 
 <a href="https://github.com/Lakhan-Gurjar"> 
  <img align="center" src="skills.png" width="100%">   
